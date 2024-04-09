@@ -11,7 +11,7 @@
 - **Banco de Dados:** MySQL
 
 ### Template Utilizado
-- **Catálogo (Frontend):** [![Template Colorlib](https://img.shields.io/badge/Template-Colorlib-blue?style=flat-square&logo=visual-studio-code)](https://colorlib.com/)
+- **Catálogo:** [![Template Colorlib](https://img.shields.io/badge/Template-Colorlib-blue?style=flat-square&logo=visual-studio-code)](https://colorlib.com/)
 
 
 -----
