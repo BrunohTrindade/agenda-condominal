@@ -28,7 +28,7 @@
           </a>
           <ul class="dropdown-menu dropdown-navbar">
             <li class="nav-link"><a class="nav-item dropdown-item text-info" data-toggle="modal" data-target="#changePass">Trocar Senha</a></li>
-            <li class="nav-link"><a href="<?= $BASE_URL ?>teste.php" class="nav-item dropdown-item text-info">Sair</a></li>
+            <li class="nav-link"><a href="<?= $BASE_URL ?>logout.php" class="nav-item dropdown-item text-info">Sair</a></li>
           </ul>
         </li>
         <li class="separator d-lg-none"></li>

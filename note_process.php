@@ -120,7 +120,6 @@ if($type == 'concluir'){
   $concludeModel = $noteDAO->concludeNote($note);
 
   if($concludeModel){
-
     $message->setMessage("Recado $id concluido com sucesso!", "success", "recados.php");
   }else{
     $message->setMessage("Erro ao concluir recado $id!", "error", "recados.php");

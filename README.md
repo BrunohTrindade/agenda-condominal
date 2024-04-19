@@ -11,8 +11,8 @@
 - **Banco de Dados:** MySQL
 
 ### Template Utilizado
-- **Catálogo:** [![Template Colorlib](https://img.shields.io/badge/Template-Colorlib-blue?style=flat-square&logo=visual-studio-code)](https://colorlib.com/)
-
+### Template Utilizado
+[![creative-team](https://img.shields.io/badge/creative-team-purple?style=flat-square&logo=visual-studio-code)](https://www.creative-tim.com/product/material-dashboard-dark)
 
 -----
 
@@ -43,13 +43,16 @@ Por padrão, existem 3 tipos de **recados**: Autorização, Aviso e Proibição,
 
 Em todas as operações, são registradas a data, a hora e o usuário que efetuou a ação. Nas reservas, é possível pesquisar por ID e período de data. Nos recados, é possível pesquisar por número do imóvel, recados ativos e concluídos.
 
+O usuário também pode, na pagina "regimento.php", pesquisar nome do morador para saber sua respectiva casa. Isso ajuda, de forma significativa, os novos porteiros que não sabe nome, casa e localização, visto também que nessa pagina, há um mapa de facil entendimento.
 -----
 
 ### Capturas de Tela 📸
-![Página Inicial](screenshots/screen.png)
-![Página Shop](screenshots/shop_screen.png)
-![Página Minha Conta](screenshots/account_screen.png)
-![Página Meus Endereços](screenshots/address_screen.png)
+![Página Inicial - Calendário](screenshots/calender.png)
+![Página Nova Reserva ](screenshots/new_event.png)
+![Página Detalhes da Reserva ](screenshots/detail_event.png)
+![Página Lita de Reservas](screenshots/list_calender.png)
+![Página de Recados](screenshots/notes.png)
+![Página Novo Recado](screenshots/new_note.png)
 
 -----
 
